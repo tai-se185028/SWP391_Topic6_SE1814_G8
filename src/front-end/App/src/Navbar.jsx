@@ -22,7 +22,7 @@ export default function Navbar({ username }) {
                 <Link to="/usageHistory" className="hover:text-gray-300">
                     Lịch sử
                 </Link>
-                <Link to="/notifycaition" className="hover:text-gray-300">
+                <Link to="/notificaition" className="hover:text-gray-300">
                     Thông báo
                 </Link>
                 <Link to="/support" className="hover:text-gray-300">
